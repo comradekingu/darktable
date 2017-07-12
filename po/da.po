@@ -702,7 +702,7 @@ msgid ""
 "pixel interpolator used in rotation and lens correction (bilinear, bicubic, "
 "lanczos2, lanczos3)."
 msgstr ""
-"pixel-interpolator, der bruges ved rotering og objektivkorrektion (bilineær, "
+"pixelinterpolator, der bruges ved rotering og objektivkorrektion (bilineær, "
 "bikubisk, lanczos2, lanczos3)."
 
 #: ../build/src/preferences_gen.h:2649
