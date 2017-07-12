@@ -375,7 +375,7 @@ msgid ""
 "show a more readable representation of the location in the image information "
 "module"
 msgstr ""
-"vis en mere læsbar gengivelse af placeringen i billedinformations-modulet."
+"vis en mere læsbar gengivelse af placeringen i billedinformationsmodulet."
 
 #: ../build/src/preferences_gen.h:2066
 msgid "overlay txt sidecar over zoomed images"
